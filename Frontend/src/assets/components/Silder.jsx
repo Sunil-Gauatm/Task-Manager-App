@@ -64,7 +64,7 @@ const Silder = () => {
       </div>
 
 
-      <div className="absolute right-[-10px] top-18">
+      <div className="absolute right-[-10px] top-18 ">
         <button
           className="bg-white size-7 flex justify-center items-center rounded-full border border-black"
           onClick={handleSliderMove}
